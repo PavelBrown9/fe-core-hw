@@ -6,3 +6,5 @@ https://pavelbrown9.github.io/fe-core-hw/module-3/index.html
 https://pavelbrown9.github.io/fe-core-hw/module-4/index.html
 
 https://pavelbrown9.github.io/fe-core-hw/module-5/index.html
+
+https://pavelbrown9.github.io/fe-core-hw/module-6/index.html
