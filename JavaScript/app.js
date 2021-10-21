@@ -87,7 +87,7 @@ const cloneH2 = h1.cloneNode(false);
 
 //add attr
 imgContainer.setAttribute('id', 'main-image-container');
-mainImg.setAttribute('src', 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fdeadpool-heart-wallpapers&psig=AOvVaw2NCGKrKyJDBC2XlnRqq9qf&ust=1634907423053000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC67vLG2_MCFQAAAAAdAAAAABAJ');
+mainImg.setAttribute('src', 'https://c4.wallpaperflare.com/wallpaper/185/138/484/movies-hollywood-movies-wallpaper-preview.jpg');
 mainImg.setAttribute('alt', 'picture');
 imgContainer1.setAttribute('id', 'main-image-container');
 mainImg1.setAttribute('src', 'https://lumiere-a.akamaihd.net/v1/images/image_299ffd51.jpeg?region=0%2C0%2C1800%2C968');
