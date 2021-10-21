@@ -90,7 +90,7 @@ imgContainer.setAttribute('id', 'main-image-container');
 mainImg.setAttribute('src', 'http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg');
 mainImg.setAttribute('alt', 'picture');
 imgContainer1.setAttribute('id', 'main-image-container');
-mainImg1.setAttribute('src', 'http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-06-gallery-image.jpg');
+mainImg1.setAttribute('src', 'https://lumiere-a.akamaihd.net/v1/images/image_299ffd51.jpeg?region=0%2C0%2C1800%2C968');
 mainImg1.setAttribute('alt', 'picture');
 cite.setAttribute('title', 'Source Title');
 
