@@ -1,5 +1,5 @@
 body {
-    background: url(https://img.freepik.com/free-vector/red-watercolor-background_1378-184.jpg?w=740&t=st=1679059573~exp=1679060173~hmac=d191a42cde9df834a1c47ce25616be588412a04f954daa19f05a0bf09a2c72c4);
+    background: url(http://s3.foxfilm.com/foxmovies/dev/films/107/assets/bg-texture4.jpg-9138912608.jpg);
     background-size: cover;
     background-attachment: fixed;
     margin-top: 50px;
@@ -35,7 +35,7 @@ body {
     color: #fff;
 }
 #main-image-container {
-    background: url(https://wallpaper.dog/large/5448663.jpg);
+    background: url(http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg);
     margin-left: -60px;
     margin-right: -60px;
 }
