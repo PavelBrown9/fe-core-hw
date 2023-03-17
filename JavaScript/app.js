@@ -36,7 +36,7 @@ const spanArr = ['SOME YEAR ', 'SOME OTHER YEAR ', 'SOME OTHER DIFERENT YEAR ', 
 
 
 
-for (li = 0; li < 11; li++){
+for (let li = 0; li < 11; li++){
     let list = document.createElement('li');
     let span = document.createElement('span');
     list.classList.add('list-item');
