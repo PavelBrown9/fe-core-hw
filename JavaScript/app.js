@@ -87,7 +87,7 @@ const cloneH2 = h1.cloneNode(false);
 
 //add attr
 imgContainer.setAttribute('id', 'main-image-container');
-mainImg.setAttribute('src', 'https://c4.wallpaperflare.com/wallpaper/185/138/484/movies-hollywood-movies-wallpaper-preview.jpg');
+mainImg.setAttribute('src', 'https://github.com/PavelBrown9/fe-core-hw/blob/master/JavaScript/WallpaperDog-5448825.jpg');
 mainImg.setAttribute('alt', 'picture');
 imgContainer1.setAttribute('id', 'main-image-container');
 mainImg1.setAttribute('src', 'https://lumiere-a.akamaihd.net/v1/images/image_299ffd51.jpeg?region=0%2C0%2C1800%2C968');
