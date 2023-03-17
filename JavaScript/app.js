@@ -65,7 +65,7 @@ deadpoolSpan.classList.add('red-text');
 deadpoolP.classList.add('text-center');
 deadpoolSpan2.classList.add('red-text');
 imgContainer.classList.add('row');
-mainImg.classList.add('img-responsive', 'inside-shadow');
+mainImg.classList.add('img-responsive', 'inside-shadow');</img>
 subtitleContainer.classList.add('row', 'sub-title-container');
 listContainer.classList.add('row', 'list-container');
 imgContainer1.classList.add('row');
