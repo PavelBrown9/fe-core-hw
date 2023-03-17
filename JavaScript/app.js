@@ -36,7 +36,7 @@ const spanArr = ['SOME YEAR ', 'SOME OTHER YEAR ', 'SOME OTHER DIFERENT YEAR ', 
 
 
 
-for (let li = 0; li < 11; li++){
+for (li = 0; li < 11; li++){
     let list = document.createElement('li');
     let span = document.createElement('span');
     list.classList.add('list-item');
@@ -49,7 +49,7 @@ for (let li = 0; li < 11; li++){
 
 mass = ['Made as a <a href="https://www.freecodecamp.com/" target="_blank">CodeCamp</a> project',
     '<a href="http://www.foxmovies.com/movies/deadpool" target="_blank">Assets and idea</a>',
-    '<a href="https://lumiere-a.akamaihd.net/v1/images/image_299ffd51.jpeg?region=0%2C0%2C1800%2C968" target="_blank">Info</a>',
+    '<a href="http://marvel.com/universe/Deadpool_(Wade_Wilson)" target="_blank">Info</a>',
     '<a href="https://twitter.com/deadpoolmovie" target="_blank">The best twitter ever</a>'];
 
 for (let i = 0; i < mass.length; i++){
@@ -87,10 +87,10 @@ const cloneH2 = h1.cloneNode(false);
 
 //add attr
 imgContainer.setAttribute('id', 'main-image-container');
-mainImg.setAttribute('src', 'https://github.com/PavelBrown9/fe-core-hw/blob/master/JavaScript/WallpaperDog-5448825.jpg');
+mainImg.setAttribute('src', 'http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool1-gallery-image.jpg');
 mainImg.setAttribute('alt', 'picture');
 imgContainer1.setAttribute('id', 'main-image-container');
-mainImg1.setAttribute('src', 'https://lumiere-a.akamaihd.net/v1/images/image_299ffd51.jpeg?region=0%2C0%2C1800%2C968');
+mainImg1.setAttribute('src', 'http://s3.foxfilm.com/foxmovies/production/films/103/images/gallery/deadpool-gallery-06-gallery-image.jpg');
 mainImg1.setAttribute('alt', 'picture');
 cite.setAttribute('title', 'Source Title');
 
